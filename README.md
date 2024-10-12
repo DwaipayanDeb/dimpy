@@ -21,4 +21,4 @@ testarray[1,4,3]=5 # Now work with elements in numpy style
 print(testarray)
 ```
 
-For details please follow the link https://www.respt.in/p/python-package-dimpy.html
+For details please follow the link https://www.researchsquare.com/article/rs-1004075/v2
